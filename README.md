@@ -1,7 +1,4 @@
 
-  # Premium Damp Proofing Website
-
-  This is a code bundle for Premium Damp Proofing Website. The original project is available at https://www.figma.com/design/8fYprpfWLHIAYAppUqitvi/Premium-Damp-Proofing-Website.
 
   ## Running the code
 
