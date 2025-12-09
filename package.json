@@ -63,5 +63,5 @@
             "predeploy": "npm run build",
             "deploy": "gh-pages -d dist"
       },
-      "homepage": "https://<GITHUB_USERNAME>.github.io/<REPO_NAME>"
+      "homepage": "https://lasantha117.github.io/Damp-Proofing-Demo-2"
 }

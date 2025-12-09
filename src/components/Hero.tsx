@@ -56,7 +56,7 @@ export function Hero() {
                   transition={{ delay: 0.3 + index * 0.1 }}
                   className="flex items-center gap-3"
                 >
-                  <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0" />
+                  <CheckCircle className="w-6 h-6 flex-shrink-0 text-green-500" color="#10b981" />
                   <span className="text-slate-200">{benefit}</span>
                 </motion.div>
               ))}
